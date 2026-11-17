@@ -6,7 +6,7 @@ export function GiftsSection() {
       id="mimos"
       className="w-full flex flex-col items-center justify-center px-4 pb-20 pt-16 scroll-mt-6 min-h-screen"
     >
-      <div className="max-w-2xl w-full rounded-3xl border border-white/20 bg-white/10 p-8 shadow-2xl backdrop-blur-xl">
+      <div className="max-w-3xl w-full rounded-3xl border border-white/20 bg-white/10 p-8 shadow-2xl backdrop-blur-xl">
         <div className="mb-8 text-center gap-4 flex-col flex">
           <img
             src={'naoprecisava.png'}
