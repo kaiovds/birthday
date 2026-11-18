@@ -17,7 +17,7 @@ export function GiftsSection() {
         </div>
 
         <div className="flex flex-col gap-5 md:text-justify text-center">
-          <p>Como um bom Capricorniano, adoro ganhar dinheiro. Se for a sua escolha, minha meta é ter R$43.991.266.407 reais na conta do Itaú.</p>
+          <p>Como um bom Capricorniano, adoro ganhar dinheiro. Se for a sua escolha, minha meta é ter R$43.991.266.407 reais na conta do Itaú. <span className="text-xs">(é a chave pix)</span></p>
           <p>Livros: Terror, suspense ou desenvolvimento pessoal.</p>
           <p>Trajes Superiores e Inferiores: M ou 42. Gosto de cores escuras e terrosas.</p>
           <p>Produtos para cabelos ondulados, cacheados e skin care.</p>
