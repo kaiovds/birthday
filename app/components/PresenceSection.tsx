@@ -104,8 +104,10 @@ export function PresenceSection() {
 
           <div className="flex flex-col gap-6 text-justify">
             <p>
-              Ao confirmar a presença você e seus acompanhantes serão
-              considerados na minha estimativa de comida e bebida.
+              Ao confirmar a presença{" "}
+              <span className="font-bold underline">até dia 01/12</span> você e seus
+              acompanhantes serão considerados na minha estimativa de comida e
+              bebida.
             </p>
             <p>
               Se você não tiver certeza que poderá comparecer, não preencha...
